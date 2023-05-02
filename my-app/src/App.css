@@ -1,6 +1,12 @@
 body {
     margin: 20 px;
     padding: 130 px;
+    background-image: linear-gradient(
+    to bottom right,
+    rgb(40, 40, 40),
+    rgb(237, 236, 230),
+    rgb(106, 104, 100)
+  );
 
 }
 
