@@ -10,7 +10,7 @@ function App() {
           backgroundImage:
             "linear-gradient(to bottom right, rgb(11, 11, 11), rgb(237, 236, 230), rgb(106, 104, 100))",
         }}
->
+      >
         <div className="row d-flex justify-content-center align-items-center">
           <div className="col-lg-6 column off-set">
             <div className="card">
@@ -42,10 +42,10 @@ function App() {
                 that humans can easily understand."
                 <br />
                 <br />
-                Like the article said, pseudocode is just a way of translating
-                what a program should do into plain old English. You are
-                thinking about the problem at hand and writing out the steps on
-                how to solve it. <br />
+                As the article states, pseudocode is a process of converting a
+                program's objectives into a more understandable, natural
+                language format. It involves analyzing the problem at hand and
+                determining the necessary steps to solve it. <br />
                 <br />
                 When writing pseudocode I like to break it up into components:
               </p>
